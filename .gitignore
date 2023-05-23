@@ -1,0 +1,6 @@
+.env
+
+.vscode/
+__pychache__/
+.mypy_cache/
+venv/
